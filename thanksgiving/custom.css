@@ -1,0 +1,32 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.header {
+    background-image: url('turkey.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+}
+
+.green {
+	background-color: #7FBF7F;
+}
+
+.yellow {
+	background-color: #F5D87B;
+}
+
+.brown {
+	background-color: #D9C5B4;
+}
+
+.creme {
+	background-color: #F5E4D2;
+}
+
+.mashed {
+	background-color: #F5D77B;
+}
+
+.navbar-dark, .footer{
+	background-color:#A82E38;
+}
